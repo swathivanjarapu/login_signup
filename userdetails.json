@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "name": "swa",
+            "password": "ASwe@345",
+            "profile": {
+                "dsptn": "sad",
+                "hobbies": "err",
+                "dob": "456",
+                "gender": "es"
+            }
+        }
+    ]
+}
