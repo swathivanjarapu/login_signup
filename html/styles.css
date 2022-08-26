@@ -1,0 +1,92 @@
+
+/* .header{ width: 100%;
+    height: 80px;
+    display: block;
+    background-color: antiquewhite;
+} */
+ /* .inner_head{ width: 100px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+
+} */
+/* .logo_cont{
+    height: 100%;
+    display: table;
+    float: left; 
+} */
+
+
+/* .logo_cont h1{ color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middli;
+    font-family: "mostserrat";
+    font-size: 32px;
+
+} */
+.nav{
+    float: right;
+    height:20px;   
+}
+.nav a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+
+
+aside {width: 10%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right-lift;
+    font-style: italic;
+    background-color: lightgray;
+  
+}
+img{width: 20%;
+    padding-left: 15px;
+    float: lift-right;
+    
+
+}
+h {width: 100%;
+    margin-left: 20px;
+    float: right-up;
+    font-style: italic;
+
+    
+     
+}
+Pre{ font-size: 100%;
+    margin-left: 15px;
+    float: right-lift;}
+
+
+figure{ margin-right: 50px;
+    float: right-up;
+    box-sizing: border-box;
+
+}
+embed{ margin-right: 100px;
+    float: left-down;
+    padding-left: 15px;
+
+
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+/* body{ background-color: rgb(211, 211, 211); */
+
+
+/* summary{ 
+    padding-left: 20px;
+    margin-left: 20px;
+
+} */
